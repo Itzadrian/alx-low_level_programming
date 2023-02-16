@@ -8,4 +8,6 @@
 	<li>4-puts.c creates a C program that prints a message with puts</li>
 	<li>5-printf.c creates a C program that prints a message with printf</li>
 	<li>6-size.c prints the various size on the computer it is compiled on</li>
+	<li>100-intel prints assembly code in intel syntax</li>
+	<li>101-quote.c create a c program that prints a message with write</li>
 </ul>
