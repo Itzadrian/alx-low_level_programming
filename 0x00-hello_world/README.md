@@ -1,5 +1,8 @@
 <h1>Repo containing C programs and shell scripts</h1>
 
 <ul>
-	<li>0-preprocessor is a script used to run a C file through the preprocessor and save the result to a filename</>
+	<li>0-preprocessor is a script used to run a C file through the preprocessor and save the result to a filename</li>
+	<li>1-compiler is a script that compiles a C file but does not link</li>
+	<li>2-assembler is a script that generates the assembly code of a C file and saves it to an output</li>
+	<li>3-name is a script that compiles a C file and creates an executable file</li>
 </ul>
