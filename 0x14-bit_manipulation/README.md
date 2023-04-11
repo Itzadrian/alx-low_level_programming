@@ -5,3 +5,5 @@
 <li>3-set_bit.c function that sets the value of a bit to 1 at a given index.</li>
 <li>4-clear_bit.c function that sets the value of a bit to 0 at a given index.</li>
 <li>5-flip_bits.c function that returns the number of bits you would need to flip to get from one number to another.</li>
+<li>100-get_endianness.c function that checks the endianness.</li>
+<li>Crackme3</li>
